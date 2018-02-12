@@ -11,9 +11,9 @@ Magento 2 module with webpack workflow to add a React component to Magento's fro
 
 ## Installation
 - Download this repository into your magento instance, in an app/code directory.
-- Run `php bin/magento module:enable Rossmc/SalesPdfFonts`
+- Run `php bin/magento module:enable Rossmc/ReactComponent`
 - Run `php bin/magento cache:flush`
-- Run `php bin/magento setup:upgrade
+- Run `php bin/magento setup:upgrade`
 
 ## Ussage
 - `cd` into `Rossmc/ReactComponent/view/frontend`
